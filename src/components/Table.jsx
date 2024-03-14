@@ -23,6 +23,7 @@ const arabLeagueCountries = [
   { countryCode: "TN", city: "تونس" }, // Tun   is (Tūnis)
   { countryCode: "AE", city: "أبوظبي" }, // Abu Dhabi (Abū Ḍhabī)
   { countryCode: "YE", city: "صنعاء" }, // Sanaa (Ṣanʿāʾ)
+  { countryCode: "YE", city: "شبوة" }, // Sanaa (Ṣanʿāʾ)
 ];
 
 function Table() {
